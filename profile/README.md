@@ -1,7 +1,7 @@
 # Learn Microservices with Spring Boot 3 - Source Code
 
 [comment]: #cover
-![Cover image](978-1-4842-9756-8.jpeg)
+![Cover image](/profile/978-1-4842-9756-8.jpeg)
 
 This repository contains the complete source code for the book "Learn Microservices with Spring Boot 3". Each chapter's code is organized into separate repositories for easy navigation and understanding.
 
