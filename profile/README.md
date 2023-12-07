@@ -17,7 +17,7 @@ This repository contains the complete source code for the book "Learn Microservi
   - [Chapter 5. The Data Layer Concepts and Spring Data JPA](https://github.com/Book-Microservices-v3/chapter05)
   - [Chapter 6. Starting with Microservices - Synchronous](https://github.com/Book-Microservices-v3/chapter06)
   - [Chapter 7. Event-Driven Architectures - Making our system asynchronous](https://github.com/Book-Microservices-v3/chapter07)
-  - [Chapter 8 (I). The Gateway Pattern in Microservice Architectures (Spring Cloud Gateway)](https://github.com/Book-Microservices-v3/chapter08a
+  - [Chapter 8 (I). The Gateway Pattern in Microservice Architectures (Spring Cloud Gateway)](https://github.com/Book-Microservices-v3/chapter08a)
   - [Chapter 8 (II). Service Discovery and Load Balancing for Spring Boot Microservices (Consul / Spring Cloud Load Balancer)](https://github.com/Book-Microservices-v3/chapter08b)
   - [Chapter 8 (III). Centralized Configuration with Consul KV](https://github.com/Book-Microservices-v3/chapter08c)
   - [Chapter 8 (IV). Centralized Logs, Distributed Tracing, and Containerization with Docker (Buildpacks) and Docker Compose](https://github.com/Book-Microservices-v3/chapter08d)
